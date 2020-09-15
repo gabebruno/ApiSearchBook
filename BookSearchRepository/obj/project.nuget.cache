@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IF3hpoTmwA5svgaz6EJE/qya+hkBiogAQSOvg7iwNVm3VUoba+UqFK0SbM9YoveL07bAJtbKFcnjSMq4fDRzAA==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

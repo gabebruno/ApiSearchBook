@@ -1,0 +1,9 @@
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.csprojAssemblyReference.cache
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.AssemblyInfoInputs.cache
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.AssemblyInfo.cs
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiBookSearch\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.deps.json
+C:\Projetos\ApiBookSearch\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiBookSearch\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.pdb

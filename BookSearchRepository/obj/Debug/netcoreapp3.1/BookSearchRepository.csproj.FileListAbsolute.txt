@@ -1,0 +1,12 @@
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csprojAssemblyReference.cache
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.AssemblyInfoInputs.cache
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.AssemblyInfo.cs
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiBookSearch\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.deps.json
+C:\Projetos\ApiBookSearch\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.dll
+C:\Projetos\ApiBookSearch\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.pdb
+C:\Projetos\ApiBookSearch\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiBookSearch\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csproj.CopyComplete
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.dll
+C:\Projetos\ApiBookSearch\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.pdb
