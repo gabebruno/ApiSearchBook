@@ -11,7 +11,7 @@ namespace BookSearchCrossCutting
 {
     public class BookInjector
     {
-        public static void RegServices(IServiceCollection services)
+        public static void Main(IServiceCollection services)
         {
             //Repositories
             services.AddScoped<IBookRepository, BookRepository>();

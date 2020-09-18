@@ -93,3 +93,13 @@ C:\Projetos\ApiBookSearch\XUnitTestBookSearch\obj\Debug\netcoreapp3.1\XUnitTestB
 C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
 C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Projetos\ApiBookSearch\XUnitTestBookSearch\obj\Debug\netcoreapp3.1\XUnitTestBookSearch.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\testhost.exe
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\XUnitTestBookSearch.pdb
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\BookSearchAplication.dll
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\BookSearchAplication.pdb
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\obj\Debug\netcoreapp3.1\XUnitTestBookSearch.dll
+C:\Projetos\ApiBookSearch\XUnitTestBookSearch\obj\Debug\netcoreapp3.1\XUnitTestBookSearch.pdb
