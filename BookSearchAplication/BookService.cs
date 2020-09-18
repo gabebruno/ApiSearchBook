@@ -2,6 +2,7 @@
 using BookSearchDomain.Dto;
 using BookSearchDomain.Model;
 using BookSearchDomain.Repository;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -67,7 +68,6 @@ namespace BookSearchAplication
                     break;
             }
 
-
             return books;
         }
 
@@ -78,7 +78,9 @@ namespace BookSearchAplication
             if (book == null)
                 return 0;
 
-            return book.Price * 0.2;
+            var shipping = book.Price * 0.2;
+
+            return shipping;
         }
     }
 }

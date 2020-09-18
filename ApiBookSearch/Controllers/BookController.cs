@@ -25,7 +25,9 @@ namespace ApiBookSearch.Controllers
             [FromQuery]double? initialprice,
             [FromQuery]double? finalprice,
             [FromQuery]int? initialnumberpages,
-            [FromQuery]int? finalnumberpages
+            [FromQuery]int? finalnumberpages,
+            [FromQuery]string orderby,
+            [FromQuery]bool asc
             )
         {
 
@@ -39,6 +41,8 @@ namespace ApiBookSearch.Controllers
                 FinalPrice = finalprice,
                 InitialNumberPages = initialnumberpages,
                 FinalNumberPages = finalnumberpages,
+                OrderBy = orderby,
+                Ascending = asc
             };
 
             return _service.SearchBook(filter);
