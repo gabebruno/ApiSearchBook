@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace BookSearchDomain.Model
+﻿namespace BookSearchDomain.Model
 {
     public class Book
     {

@@ -19,7 +19,7 @@ namespace ApiBookSearch.Controllers
 
         public List<Book> Get(
             [FromQuery]string author,
-            [FromQuery]string bookname,
+            [FromQuery]string name,
             [FromQuery]string genre,
             [FromQuery]string illustrator,
             [FromQuery]double? initialprice,
@@ -32,7 +32,7 @@ namespace ApiBookSearch.Controllers
             var filter = new FilterDTO
             {
                 Author = author,
-                BookName = bookname,
+                Name = name,
                 Genre = genre,
                 Illustrator = illustrator,
                 InitialPrice = initialprice,
