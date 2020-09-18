@@ -2,7 +2,6 @@
 using BookSearchDomain.Dto;
 using BookSearchDomain.Model;
 using BookSearchDomain.Repository;
-using System;
 using System.Collections.Generic;
 using System.Linq;
 
@@ -24,8 +23,8 @@ namespace BookSearchAplication
             if (!string.IsNullOrEmpty(filters.Author))
                 books = books.Where(p => p.Specifications.Author.Contains(filters.Author)).ToList();
 
-            if (!string.IsNullOrEmpty(filters.BookName))
-                books = books.Where(p => p.Name.Contains(filters.BookName)).ToList();
+            if (!string.IsNullOrEmpty(filters.Name))
+                books = books.Where(p => p.Name.Contains(filters.Name)).ToList();
 
             if (filters.InitialPrice != null)
                 books = books.Where(p => p.Price >= filters.InitialPrice).ToList();
@@ -46,7 +45,7 @@ namespace BookSearchAplication
                 books = books.Where(p => p.Specifications.PageCount <= filters.FinalNumberPages).ToList();
 
 
-            switch (filters.Orderby)
+            switch (filters.OrderBy)
             {
                 case "author":
                     books = filters.Ascending ? books.OrderBy(p => p.Specifications.Author).ToList() : books.OrderByDescending(p => p.Specifications.Author).ToList();
@@ -56,12 +55,12 @@ namespace BookSearchAplication
                     books = filters.Ascending ? books.OrderBy(p => p.Name).ToList() : books.OrderByDescending(p => p.Name).ToList();
                     break;
 
-                case "price":
-                    books = filters.Ascending ? books.OrderBy(p => p.Price).ToList() : books.OrderByDescending(p => p.Price).ToList();
-                    break;
-
                 case "page":
                     books = filters.Ascending ? books.OrderBy(p => p.Specifications.PageCount).ToList() : books.OrderByDescending(p => p.Specifications.PageCount).ToList();
+                    break;
+
+                case "price":
+                    books = filters.Ascending ? books.OrderBy(p => p.Price).ToList() : books.OrderByDescending(p => p.Price).ToList();
                     break;
 
                 default:

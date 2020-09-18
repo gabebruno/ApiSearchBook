@@ -3,9 +3,6 @@ using BookSearchDomain.Aplication;
 using BookSearchDomain.Repository;
 using BookSearchRepository;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace BookSearchCrossCutting
 {

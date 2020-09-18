@@ -5,7 +5,6 @@ using BookSearchDomain.Model;
 using BookSearchDomain.Repository;
 using Moq;
 using Newtonsoft.Json;
-using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -27,11 +26,11 @@ namespace XUnitTestBookSearch
 
         private List<Book> MockBookList()
         {
-            var json = File.ReadAllText(@"../../../Mock/books.json", Encoding.GetEncoding("iso-8859-1"));
+            var Booksjson = File.ReadAllText(@"../../../Mock/books.json", Encoding.GetEncoding("iso-8859-1"));
 
-            var books = JsonConvert.DeserializeObject<List<Book>>(json);
+            var result = JsonConvert.DeserializeObject<List<Book>>(Booksjson);
 
-            return books;
+            return result;
         }
 
         [Theory]
@@ -68,7 +67,7 @@ namespace XUnitTestBookSearch
             //Arranjo
             var filter = new FilterDTO
             {
-                BookName = name
+                Name = name
             };
             _bookRepositoryMock.Setup(m => m.Query()).Returns(MockBookList());
 
@@ -217,20 +216,20 @@ namespace XUnitTestBookSearch
 
 
         [Theory]
-        [InlineData("autor", true, 3)]
-        [InlineData("autor", false, 1)]
-        [InlineData("nome", true, 2)]
-        [InlineData("nome", false, 5)]
-        [InlineData("preco", true, 5)]
-        [InlineData("preco", false, 4)]
-        [InlineData("pagina", true, 1)]
-        [InlineData("pagina", false, 5)]
+        [InlineData("author", true, 3)]
+        [InlineData("author", false, 1)]
+        [InlineData("name", true, 2)]
+        [InlineData("name", false, 5)]
+        [InlineData("price", true, 5)]
+        [InlineData("price", false, 4)]
+        [InlineData("page", true, 1)]
+        [InlineData("page", false, 5)]
         public void OrderedSearchBook(string field, bool ascending, int registryId)
         {
             //Arranjo
             var filter = new FilterDTO
             {
-                Orderby = field,
+                OrderBy = field,
                 Ascending = ascending
             };
             _bookRepositoryMock.Setup(m => m.Query()).Returns(MockBookList());
