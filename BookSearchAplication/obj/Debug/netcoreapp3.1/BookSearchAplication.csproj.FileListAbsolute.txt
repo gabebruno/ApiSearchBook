@@ -10,3 +10,15 @@ C:\Projetos\ApiBookSearch\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearc
 C:\Projetos\ApiBookSearch\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.csproj.CopyComplete
 C:\Projetos\ApiBookSearch\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.dll
 C:\Projetos\ApiBookSearch\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.pdb
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearchAplication.deps.json
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearchAplication.dll
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearchAplication.pdb
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.csprojAssemblyReference.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.AssemblyInfoInputs.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.AssemblyInfo.cs
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.csproj.CoreCompileInputs.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.csproj.CopyComplete
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.dll
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchAplication\obj\Debug\netcoreapp3.1\BookSearchAplication.pdb

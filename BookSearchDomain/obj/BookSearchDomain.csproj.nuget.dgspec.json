@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {}
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
         "projectName": "BookSearchDomain",
-        "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\obj\\",
+        "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
+        "packagesPath": "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Naoki Iwakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -55,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

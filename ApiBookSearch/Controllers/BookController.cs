@@ -17,6 +17,7 @@ namespace ApiBookSearch.Controllers
             _service = service;
         }
 
+        [HttpGet]
         public List<Book> Get(
             [FromQuery]string author,
             [FromQuery]string name,

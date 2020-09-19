@@ -7,3 +7,12 @@ C:\Projetos\ApiBookSearch\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDom
 C:\Projetos\ApiBookSearch\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
 C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.dll
 C:\Projetos\ApiBookSearch\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.deps.json
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.csprojAssemblyReference.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.AssemblyInfoInputs.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.AssemblyInfo.cs
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.csproj.CoreCompileInputs.cache
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchDomain\obj\Debug\netcoreapp3.1\BookSearchDomain.pdb

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "rFVzgv9aV0sb6usf+LlqnT8/O3I1V1cTbUuC4YHrRPftBDL60EcDCpsp3GbK66KqKmJ3MAPayK10Bvkfz8vD7g==",
+  "dgSpecHash": "/uvTSjM+bZCzNUFpBu20TIx6X7OpjUcZ0wz/PPpK5Okv8BUUjBScDRMXAx1Rnju0PZNkd6tolanRk6tyt0BivA==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
-    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }

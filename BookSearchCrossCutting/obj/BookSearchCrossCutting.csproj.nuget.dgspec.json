@@ -1,24 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj": {}
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj": {
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj",
+        "projectUniqueName": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj",
         "projectName": "BookSearchAplication",
-        "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\obj\\",
+        "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj",
+        "packagesPath": "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Naoki Iwakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -30,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {
-                "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj"
+              "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {
+                "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj"
               }
             }
           }
@@ -65,25 +66,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj": {
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
+        "projectUniqueName": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
         "projectName": "BookSearchCrossCutting",
-        "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ApiBookSearch\\BookSearchCrossCutting\\obj\\",
+        "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\BookSearchCrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchCrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Naoki Iwakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -95,14 +97,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj": {
-                "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj"
+              "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj": {
+                "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj"
               },
-              "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {
-                "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj"
+              "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {
+                "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj"
               },
-              "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj": {
-                "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj"
+              "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\BookSearchRepository.csproj": {
+                "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\BookSearchRepository.csproj"
               }
             }
           }
@@ -140,25 +142,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj",
+        "projectUniqueName": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
         "projectName": "BookSearchDomain",
-        "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\obj\\",
+        "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
+        "packagesPath": "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Naoki Iwakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -195,25 +198,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj": {
+    "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\BookSearchRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj",
+        "projectUniqueName": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\BookSearchRepository.csproj",
         "projectName": "BookSearchRepository",
-        "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\BookSearchRepository.csproj",
-        "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\ApiBookSearch\\BookSearchRepository\\obj\\",
+        "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\BookSearchRepository.csproj",
+        "packagesPath": "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchRepository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Naoki Iwakura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -225,8 +229,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj": {
-                "projectPath": "C:\\Projetos\\ApiBookSearch\\BookSearchDomain\\BookSearchDomain.csproj"
+              "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj": {
+                "projectPath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj"
               }
             }
           }
@@ -260,7 +264,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

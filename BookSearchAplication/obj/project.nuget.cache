@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "zCmJGJpPcrA11S9TxDJAkIYDQxIpj8wvcbJo3d8XPBaaAm+R54W2Ll4td1Wh6RJUTIj+1OfqWQfl7Zkjsv9uOw==",
+  "dgSpecHash": "O0lyrtwwbgLq8YWAumppw9hzyra7R3tFNJOefd7jgOpH48abAcXIKq09KDhUcs5nEmXBQ25Rda9P4onlEUHKcQ==",
   "success": true,
-  "projectFilePath": "C:\\Projetos\\ApiBookSearch\\BookSearchAplication\\BookSearchAplication.csproj",
+  "projectFilePath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchAplication\\BookSearchAplication.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\gabri\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\Naoki Iwakura\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
