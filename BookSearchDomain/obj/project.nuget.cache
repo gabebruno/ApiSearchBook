@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8NOAftlH9lrN9jlZIXAoCSMSQvOpkv7EMytmE8tWI0CoYiS9Yps01AS/YXhZTajZqg5eJSm8PMhypEZ29IFlMw==",
+  "dgSpecHash": "6mT2GcyceoJ7kTDeYBuwaS5jzrKT9lZmFEji5ALKlTHORZMbn7AP/PS529M9ZGOHcw6gj7cOlzKo0ggIfvsTIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Naoki Iwakura\\Documents\\Projetos paralelos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
+  "projectFilePath": "C:\\Projetos\\ApiSearchBook\\BookSearchDomain\\BookSearchDomain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

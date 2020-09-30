@@ -22,3 +22,15 @@ C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchRepo
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csproj.CopyComplete
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.dll
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.pdb
+C:\Projetos\ApiSearchBook\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.deps.json
+C:\Projetos\ApiSearchBook\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.dll
+C:\Projetos\ApiSearchBook\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchRepository.pdb
+C:\Projetos\ApiSearchBook\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiSearchBook\BookSearchRepository\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csprojAssemblyReference.cache
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.AssemblyInfoInputs.cache
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.AssemblyInfo.cs
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.csproj.CopyComplete
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.dll
+C:\Projetos\ApiSearchBook\BookSearchRepository\obj\Debug\netcoreapp3.1\BookSearchRepository.pdb

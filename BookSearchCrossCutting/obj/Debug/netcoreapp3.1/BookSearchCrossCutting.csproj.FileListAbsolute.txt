@@ -30,3 +30,19 @@ C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchCros
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.csproj.CopyComplete
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.dll
 C:\Users\Naoki Iwakura\Documents\Projetos paralelos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.pdb
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchCrossCutting.deps.json
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchCrossCutting.dll
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchCrossCutting.pdb
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchAplication.dll
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchDomain.dll
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchRepository.dll
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchAplication.pdb
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchDomain.pdb
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\bin\Debug\netcoreapp3.1\BookSearchRepository.pdb
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.csprojAssemblyReference.cache
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.csproj.CoreCompileInputs.cache
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.AssemblyInfoInputs.cache
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.AssemblyInfo.cs
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.csproj.CopyComplete
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.dll
+C:\Projetos\ApiSearchBook\BookSearchCrossCutting\obj\Debug\netcoreapp3.1\BookSearchCrossCutting.pdb
